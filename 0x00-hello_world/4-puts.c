@@ -6,7 +6,7 @@
  * * Return: function ends
  */
 
-int main(void)  /*The program runs in the main function here is is void because no argument*/
+/* main function houses other functions*/ int main(void)  
 {
 		puts("\"Programming is like building a multilingual puzzle");   /*print function using puts*/
 			return (0);
