@@ -9,7 +9,10 @@
 /**
  * main function returns void
  * and returns 0
- * void returns 0
+ * void returns 
+ * main(void)
+ * then goes back to the beginning of the function
+ * void does not take any argument
  */
 int main(void)
 {
