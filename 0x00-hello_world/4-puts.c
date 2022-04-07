@@ -6,10 +6,12 @@
  * * Return: function ends
  */
 
-/*main function houses other functions*/
-int main(void)  
+/**
+ * main function returns void
+ */
+int main(void) 
 {
 	 /*print function using puts*/
-		puts("\"Programming is like building a multilingual puzzle");   
+		puts("\"Programming is like building a multilingual puzzle");
 		return (0);
 }
