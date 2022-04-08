@@ -1,18 +1,8 @@
 #include <stdio.h>
 
-/*
- * *main - function begins
- * *
- * * Return: function ends
- */
-
 /**
- * main(void) ruturns an interger int returns void
- * and returns 0
- * void returns
- * main(void)
- * then goes back to the beginning of the function
- * void does not take any argument
+* main - function begins
+* Return: function ends
  */
 int main(void) /*the return value is an integer void zero 0*/
 {
