@@ -5,12 +5,12 @@
 
 /* betty style doc for function main goes there */
 /**
- *main void is the main funtion
+ *main(void) is the main funtion and it contains no argument hence the void
  *the program assigns a random number to the variable n
  *each time it is executed
  *and it returns an integer then 0 when the task is completed
 */
-int main(void)
+int main(void) /*no argument for void as it returns no value*/
 {
 	int n;
 
