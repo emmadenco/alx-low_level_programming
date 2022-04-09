@@ -10,7 +10,7 @@
  *each time it is executed
  *and it returns an integer then 0 when the task is completed
 */
-int main(void) /*no argument for void as it returns no value*/
+int main(void) /*return always zero no argument for void as it returns no value*/
 {
 	int n;
 
